@@ -14,7 +14,7 @@ ser capaz de dar un contexto de la situación y generar recomendaciones de inver
 Archivos de mi trabajo:
 Los dataset utilizados fueron descargados con la biblioteca de yahoo finance, donde pase estos datos a un csv, todo esto se puede ver en 'Conversion'
 a donde muestro el proceso de importacion de CSV sin antes hacer unas algunas opreaciones en el mismo, como agregar ciertas columnas que me seran de utilidad
-en el analisis, antes de importarlo.
+en el analisis.
 
 Luego esta la carpeta donde se encuentran los datasets descargado en 'Dataset'
 
