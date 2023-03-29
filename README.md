@@ -11,7 +11,14 @@ recomendaciones basadas en el retorno y riesgo de inversión e incluso la creaci
 Bueno en mi caso particular, analisare el indice sp500 y algunos de sus sectores y estudiaremos los campos antes ya mencionados para poder 
 ser capaz de dar un contexto de la situación y generar recomendaciones de inversión.
 
-Archivos de mi trabajo:
+#KPI utilizados para el analisis:
+-Rentabilidad acumulada
+-Retorno anualizado
+-Rentabilidad
+-Volatilidad
+-Drawdown (reducción máxima del valor del índice en un período determinado)
+
+#Archivos de mi trabajo:
 Los dataset utilizados fueron descargados con la biblioteca de yahoo finance, donde pase estos datos a un csv, todo esto se puede ver en 'Conversion'
 a donde muestro el proceso de importacion de CSV sin antes hacer unas algunas opreaciones en el mismo, como agregar ciertas columnas que me seran de utilidad
 en el analisis.
@@ -21,3 +28,6 @@ Luego esta la carpeta donde se encuentran los datasets descargado en 'Dataset'
 La carpeta EDA, es un breve analisis exploratorio (no fui muy extenso ni profundo en el por razones que explico en el mismo)
 
 Finalmente esta el archivo 'Analisis Bursatil', que es un archivo de power bi a donde hago los dashboard necesarios para presentar los datos.
+
+
+
